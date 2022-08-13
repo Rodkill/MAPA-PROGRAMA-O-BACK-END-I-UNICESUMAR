@@ -1,0 +1,11 @@
+.card-produto{
+    width: 200px;
+    margin: 30px;
+    text-align: center;
+}
+
+.card-produto img{
+    border-radius: 40px;
+    width: 200px;
+    height: 200px;
+}

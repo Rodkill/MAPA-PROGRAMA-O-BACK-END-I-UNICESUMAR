@@ -1,0 +1,44 @@
+.prod-cl{
+    width: 50%;
+    text-align: center;
+}
+
+.prod-cl .legend{
+    margin-top: 20px;
+    color: #616060;
+    text-align: center;
+}
+
+.prod-cr{
+    width: 50%;
+    margin-bottom: 60px;
+}
+
+.prod-cl img{
+    width: 300px;
+    height: 300px;
+    border-radius: 70px;
+}
+
+.prod-cr h2 {
+    color: #2b2b2b;
+}
+
+.prod-cr p {
+    font-size: 24px;
+    margin-bottom: 60px;
+    font-weight: lighter;
+}
+
+.preco-unidade{
+    font-size: 16px;
+}
+
+.button{
+    border-radius: 7px;
+    padding: 12px;
+    color: #FFF;
+    background-color: #4f0594;
+    text-decoration: none;
+    font-weight: bold;
+}
